@@ -4,6 +4,6 @@ PROJECT_CREATED_BY: MOHAMED SHAHIDH R
 
 # LOGIN_DETAILS
 
-Use_name:admin
+User_name:admin
 
 Password:admin
